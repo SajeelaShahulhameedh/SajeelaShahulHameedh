@@ -39,4 +39,4 @@ Welcome to my profile. I use this space to build projects, track my code, and ex
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SajeelaShahulHameedh&show_icons=true&theme=rose&hide_border=false" alt="Sajeela's GitHub Stats" />
-</p>github-readme-stats.vercel.app/api?username=SajeelaShahulHameedh&show_icons=true&theme=dark)
+</p>
