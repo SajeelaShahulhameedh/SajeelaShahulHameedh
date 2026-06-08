@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src= "https://www.google.com/imgres?q=github%20banners%20for%20undergraduate%20girl&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=kfpqCuXmfeFi9M&vet=12ahUKEwiHmZmAmfiUAxWjTGwGHUGlJo4QnPAOegQIZxAB..i&w=1600&h=700&hcb=2&ved=2ahUKEwiHmZmAmfiUAxWjTGwGHUGlJo4QnPAOegQIZxAB"  alt="prgl" />
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Wy4tBNeLxnBU9g7SButau4CPlhTeAW_8AA&s"  alt="prgl" />
 </p>
 
 <h2 align="center">✨ Hi, my name is Sajeela Shahul Hameedh ✨</h2>
@@ -25,6 +25,14 @@ Welcome to my profile. I use this space to build projects, track my code, and ex
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
 ---
 
 <h3 align="center">✨ Contact Me ✨</h3>
@@ -37,6 +45,4 @@ Welcome to my profile. I use this space to build projects, track my code, and ex
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajeelaShahulHameedh&show_icons=true&theme=rose&hide_border=false" alt="Sajeela's GitHub Stats" />
-</p>
+
