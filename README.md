@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src= "C:\Users\fathi\Desktop\WhatsApp Image 2026-04-11 at 8.47.08 PM.jpeg"  alt="prgl" />
+  <img src= "https://www.google.com/imgres?q=github%20banners%20for%20undergraduate%20girl&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=kfpqCuXmfeFi9M&vet=12ahUKEwiHmZmAmfiUAxWjTGwGHUGlJo4QnPAOegQIZxAB..i&w=1600&h=700&hcb=2&ved=2ahUKEwiHmZmAmfiUAxWjTGwGHUGlJo4QnPAOegQIZxAB"  alt="prgl" />
 </p>
 
 <h2 align="center">✨ Hi, my name is Sajeela Shahul Hameedh ✨</h2>
