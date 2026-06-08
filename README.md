@@ -1,17 +1,30 @@
-# Sajeela Shahul Hameedh
+# Hi there, I'm Sajeela Shahul Hameedh! 👋
 
-Welcome to my GitHub profile. This is where I track my code, projects, and technical experiments.
-
----
-
-### 💻 Technologies
-
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk) ![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python) ![C](https://img.shields.io/badge/C-000?style=flat&logo=c) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3) ![Servlets](https://img.shields.io/badge/Servlets-000?style=flat&logo=openjdk) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql) ![JDBC](https://img.shields.io/badge/JDBC-000?style=flat&logo=java) |
+I am a passionate developer focused on building software and web applications using a variety of technologies.
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+## 🛠️ When I code, I rely on
+
+### Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Servlets](https://img.shields.io/badge/Java%20Servlets-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database Technologies
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 📊 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajeelaShahulHameedh&show_icons=true&theme=dark)
