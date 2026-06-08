@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Wy4tBNeLxnBU9g7SButau4CPlhTeAW_8AA&s"  alt="prgl" />
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzhe8YYYitQKFI4lCmzrLmBNMJCygQJaL5aQ&s"  alt="prgl" />
 </p>
 
 <h2 align="center">✨ Hi, my name is Sajeela Shahul Hameedh ✨</h2>
