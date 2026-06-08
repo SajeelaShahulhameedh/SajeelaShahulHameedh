@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=matrix&color=auto&height=120&section=header" alt="Matrix Banner" />
+  <img src= "C:\Users\fathi\Desktop\WhatsApp Image 2026-04-11 at 8.47.08 PM.jpeg"  alt="prgl" />
 </p>
 
 <h2 align="center">✨ Hi, my name is Sajeela Shahul Hameedh ✨</h2>
