@@ -5,7 +5,6 @@
 
 <h2 align="center">✨ Hi, my name is Sajeela Shahul Hameedh ✨</h2>
 
-Welcome to my profile. I use this space to build projects, track my code, and experiment with backend systems and web technologies.
 
 ---
 
