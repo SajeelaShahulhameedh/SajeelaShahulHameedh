@@ -43,10 +43,13 @@ hands-on experience and continuous learning.
     </td>
     <td align="center" valign="top" width="260">
       <b>CURRENT FOCUS</b><br/>
-      Strengthening my technical skills and gaining practical experience
+      Strengthening my technical skills and gaining practical experience<br/>
+      <sub>Currently learning: Laravel &amp; React</sub>
     </td>
   </tr>
 </table>
+
+<sub>Languages: Tamil &nbsp;•&nbsp; English &nbsp;•&nbsp; Sinhala &nbsp;•&nbsp; Arabic</sub>
 
 </div>
 
@@ -83,6 +86,9 @@ hands-on experience and continuous learning.
 <div align="center">
 
 ## Let's Connect
+
+Open to internships, freelance projects and collaborations.<br/>
+If you have an idea or an opportunity, feel free to reach out.
 
 <a href="mailto:sajeelashahulhameedh@gmail.com">
   <img src="https://img.shields.io/badge/Email-sajeelashahulhameedh%40gmail.com-f4efff?style=for-the-badge&logo=gmail&logoColor=7654c8" alt="Email address" />
