@@ -1,117 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbf9ff,45:eee7ff,100:d6c5ff&height=210&section=header&text=Hi,%20I'm%20Sajeela%20Shahul%20Hameedh&fontSize=30&fontColor=30206f&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Building,%20Learning%20%26%20Exploring%20Technology&descSize=14&descAlignY=61" width="100%" alt="Sajeela Shahul Hameedh banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBF9FF,45:E8DEFF,100:B9A0FF&height=175&section=header&text=Sajeela%20Shahul%20Hameedh&fontSize=34&fontColor=302060&fontAlignY=40&animation=fadeIn" alt="Sajeela Shahul Hameedh banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=18&duration=3200&pause=900&color=7154C8&center=true&vCenter=true&width=620&lines=IT+Undergraduate;Building%2C+Learning+%26+Exploring+Technology;Curious+Mind.+Small+Steps.+Big+Dreams." alt="Animated introduction" />
 
 <br/>
 
- 
-<a href="https://www.linkedin.com/in/sajeelashahulhameedh/">LinkedIn</a>   •  
-<a href="mailto:sajeelashahulhameedh@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/sajeelashahulhameedh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-eee8ff?style=for-the-badge&logo=linkedin&logoColor=6d4bc3" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:sajeelashahulhameedh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-eee8ff?style=for-the-badge&logo=gmail&logoColor=6d4bc3" alt="Email" />
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-eee8ff?style=for-the-badge&logo=googlechrome&logoColor=6d4bc3" alt="Portfolio" />
+</a>
 
 </div>
 
-<table>
-<tr>
-<td width="54%" valign="top">
+<div align="center">
 
-♧ About Me
+## About Me
 
-I'm an IT undergraduate with a curious mind and a love for problem-solving. I enjoy exploring new technologies, working on meaningful projects, and turning ideas into practical solutions.
-
-</td>
-<td width="46%" valign="top">
-
-🎓 IT Undergraduate
-
-Uva Wellassa University of Sri Lanka
-
-💡 Interests
-
-Databases · Problem Solving · Technology
-
-🌱 Currently
-
-Learning, building and growing
-
-</td>
-</tr>
-</table>
-
-🛠️ Skills & Tools
-
-Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-fff7e6?style=for-the-badge&logo=openjdk&logoColor=E87924" />
-<img src="https://img.shields.io/badge/Python-f0f5ff?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/C-f0f5ff?style=for-the-badge&logo=c&logoColor=00599C" />
-<img src="https://img.shields.io/badge/PHP-f3edff?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/JavaScript-fff9d9?style=for-the-badge&logo=javascript&logoColor=222222" />
-</p>
-
-Web & Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-fff0e9?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-eaf4ff?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/React-e9faff?style=for-the-badge&logo=react&logoColor=149ECA" />
-</p>
-
-Backend & Database
-
-<p>
-<img src="https://img.shields.io/badge/PHP-f3edff?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/MySQL-eaf4ff?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Laravel-fff0ed?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-</p>
-
-Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/VS%20Code-eaf5ff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Git-fcefe9?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-f1f1f5?style=for-the-badge&logo=github&logoColor=181717" />
-<img src="https://img.shields.io/badge/Figma-f7edff?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Canva-e9faff?style=for-the-badge&logo=canva&logoColor=00C4CC" />
-</p>
-
-📁 Selected Projects
+I'm an IT undergraduate who enjoys exploring technology, solving problems,<br/>
+and learning how things work. I believe in growing through<br/>
+hands-on experience and continuous learning.
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-📊 Earnitrack
-
-Business Income & Settlement Management System
-
-Business-focused system for tracking income and settlement workflows.
-
-Laravel PHP MySQL Tailwind CSS
-
-Private/client work · Approved demo visuals only.
-
-</td>
-<td width="34%" valign="top">
-
-
-</tr>
+  <tr>
+    <td align="center" valign="top" width="260">
+      <b>EDUCATION</b><br/>
+      Uva Wellassa University of Sri Lanka<br/>
+      <sub>IT Undergraduate</sub>
+    </td>
+    <td align="center" valign="top" width="260">
+      <b>INTERESTS</b><br/>
+      Database Systems<br/>
+      Problem Solving<br/>
+      Emerging Technologies
+    </td>
+    <td align="center" valign="top" width="260">
+      <b>CURRENT FOCUS</b><br/>
+      Strengthening my technical skills and gaining practical experience
+    </td>
+  </tr>
 </table>
+
+</div>
 
 <div align="center">
 
-💜 Let's Connect
+## GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sajeelashahulhameedh&show_icons=true&hide_border=false&title_color=7154C8&text_color=302060&icon_color=7154C8&bg_color=FBF9FF&border_color=E8DEFF&border_radius=10" alt="GitHub stats" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeelashahulhameedh&layout=compact&hide_border=false&title_color=7154C8&text_color=302060&bg_color=FBF9FF&border_color=E8DEFF&border_radius=10" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=sajeelashahulhameedh&hide_border=false&ring=7154C8&fire=7154C8&currStreakLabel=7154C8&currStreakNum=302060&sideNums=302060&sideLabels=7154C8&dates=6d6d8a&background=FBF9FF&stroke=E8DEFF&border=E8DEFF&border_radius=10" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+## Skills &amp; Technologies
+
+**Programming Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,php,js&theme=light" alt="Java, Python, C, PHP and JavaScript" />
+
+**Web &amp; Interface**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=light" alt="HTML, CSS and React" />
+
+**Backend &amp; Database**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=light" alt="PHP, Laravel and MySQL" />
+
+**Tools &amp; Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,canva&theme=light" alt="VS Code, Git, GitHub, Figma and Canva" />
+
+</div>
+
+<div align="center">
+
+## Let's Connect
 
 <a href="mailto:sajeelashahulhameedh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-ece5ff?style=for-the-badge&logo=gmail&logoColor=6b4ed6" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sajeelashahulhameedh/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-ece5ff?style=for-the-badge&logo=linkedin&logoColor=6b4ed6" />
+  <img src="https://img.shields.io/badge/Email-sajeelashahulhameedh%40gmail.com-f4efff?style=for-the-badge&logo=gmail&logoColor=7654c8" alt="Email address" />
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/sajeelashahulhameedh/">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
 
-Thanks for visiting! ✨
+<sub>Small steps. Big dreams. Better code, brighter ideas.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E9E0FF,100:FBF9FF&height=75&section=footer" alt="" />
 
 </div>
