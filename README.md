@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Email-Say%20Hello-eee8ff?style=for-the-badge&logo=gmail&logoColor=6d4bc3" alt="Email" />
 </a>
 &nbsp;
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-three-rose-je62yuv48v.vercel.app/#learning">
   <img src="https://img.shields.io/badge/Portfolio-Explore-eee8ff?style=for-the-badge&logo=googlechrome&logoColor=6d4bc3" alt="Portfolio" />
 </a>
 
@@ -96,7 +96,7 @@ If you have an idea or an opportunity, feel free to reach out.
 
 <a href="https://www.linkedin.com/in/sajeelashahulhameedh/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://portfolio-three-rose-je62yuv48v.vercel.app/#learning">Portfolio</a>
 
 <sub>Small steps. Big dreams. Better code, brighter ideas.</sub>
 
