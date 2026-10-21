@@ -1,50 +1,117 @@
+<div align="center">
 
-<p align="center">
-  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzhe8YYYitQKFI4lCmzrLmBNMJCygQJaL5aQ&s"  alt="prgl" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbf9ff,45:eee7ff,100:d6c5ff&height=210&section=header&text=Hi,%20I'm%20Sajeela%20Shahul%20Hameedh&fontSize=30&fontColor=30206f&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Building,%20Learning%20%26%20Exploring%20Technology&descSize=14&descAlignY=61" width="100%" alt="Sajeela Shahul Hameedh banner" />
+
+<br/>
+
+ 
+<a href="https://www.linkedin.com/in/sajeelashahulhameedh/">LinkedIn</a>   •  
+<a href="mailto:sajeelashahulhameedh@gmail.com">Email</a>
+
+</div>
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+♧ About Me
+
+I'm an IT undergraduate with a curious mind and a love for problem-solving. I enjoy exploring new technologies, working on meaningful projects, and turning ideas into practical solutions.
+
+</td>
+<td width="46%" valign="top">
+
+🎓 IT Undergraduate
+
+Uva Wellassa University of Sri Lanka
+
+💡 Interests
+
+Databases · Problem Solving · Technology
+
+🌱 Currently
+
+Learning, building and growing
+
+</td>
+</tr>
+</table>
+
+🛠️ Skills & Tools
+
+Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-fff7e6?style=for-the-badge&logo=openjdk&logoColor=E87924" />
+<img src="https://img.shields.io/badge/Python-f0f5ff?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C-f0f5ff?style=for-the-badge&logo=c&logoColor=00599C" />
+<img src="https://img.shields.io/badge/PHP-f3edff?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/JavaScript-fff9d9?style=for-the-badge&logo=javascript&logoColor=222222" />
 </p>
 
-<h2 align="center">✨ Hi,  my name is Sajeela Shahul Hameedh ✨</h2>
+Web & Frontend
 
-
-Welcome to my profile. I use this space to build projects, track my code, and experiment with backend systems and web technologies.
-
-
----
-
-<h3 align="center">✨ Languages and Tools ✨</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<p>
+<img src="https://img.shields.io/badge/HTML5-fff0e9?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-eaf4ff?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/React-e9faff?style=for-the-badge&logo=react&logoColor=149ECA" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/PHP-f3edff?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/MySQL-eaf4ff?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Laravel-fff0ed?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-eaf5ff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Git-fcefe9?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-f1f1f5?style=for-the-badge&logo=github&logoColor=181717" />
+<img src="https://img.shields.io/badge/Figma-f7edff?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Canva-e9faff?style=for-the-badge&logo=canva&logoColor=00C4CC" />
 </p>
 
----
+📁 Selected Projects
 
-<h3 align="center">✨ Contact Me ✨</h3>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<p align="center">
-  <a href="mailto:sajeelashahulhameedh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+📊 Earnitrack
 
----
+Business Income & Settlement Management System
+
+Business-focused system for tracking income and settlement workflows.
+
+Laravel PHP MySQL Tailwind CSS
+
+Private/client work · Approved demo visuals only.
+
+</td>
+<td width="34%" valign="top">
 
 
+</tr>
+</table>
+
+<div align="center">
+
+💜 Let's Connect
+
+<a href="mailto:sajeelashahulhameedh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-ece5ff?style=for-the-badge&logo=gmail&logoColor=6b4ed6" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sajeelashahulhameedh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-ece5ff?style=for-the-badge&logo=linkedin&logoColor=6b4ed6" />
+</a>
+
+<br/><br/>
+
+Thanks for visiting! ✨
+
+</div>
