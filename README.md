@@ -75,9 +75,6 @@ hands-on experience and continuous learning.
 
 ## GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sajeelashahulhameedh&show_icons=true&hide_border=false&title_color=7154C8&text_color=302060&icon_color=7154C8&bg_color=FBF9FF&border_color=E8DEFF&border_radius=10" alt="GitHub stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeelashahulhameedh&layout=compact&hide_border=false&title_color=7154C8&text_color=302060&bg_color=FBF9FF&border_color=E8DEFF&border_radius=10" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=sajeelashahulhameedh&hide_border=false&ring=7154C8&fire=7154C8&currStreakLabel=7154C8&currStreakNum=302060&sideNums=302060&sideLabels=7154C8&dates=6d6d8a&background=FBF9FF&stroke=E8DEFF&border=E8DEFF&border_radius=10" alt="GitHub streak" />
 
